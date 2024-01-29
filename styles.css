@@ -1,0 +1,4 @@
+.box {
+  background-image: repeating-linear-gradient(red, yellow 15%, green 31%);
+  position: relative;
+}
